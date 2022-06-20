@@ -1,0 +1,8 @@
+.hoverImg:hover{
+    transform: translateY(-8px);
+    transition: all ease-in-out 0.5s;
+}
+
+.hoverImg{
+    height: 97% !important;
+}
